@@ -1,0 +1,1001 @@
+Month,Crime type,Last outcome category,LSOA code,Longitude,Latitude,Quarter
+2022-01-01,Anti-social behaviour,,E01008927,-2.015384,52.42929,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01008927,-2.015384,52.42929,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01009155,-2.020873,52.40597,2022 Q1
+2022-01-01,Anti-social behaviour,,E01009160,-2.017062,52.39557,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01009160,-2.015357,52.39517,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01009115,-1.944279,52.39045,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032138,-2.149948,52.4143,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032138,-2.144226,52.41801,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032138,-2.141996,52.41488,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032138,-2.149948,52.4143,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01032138,-2.144226,52.41801,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032138,-2.149948,52.4143,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032138,-2.149948,52.4143,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032138,-2.137163,52.41627,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032138,-2.137163,52.41627,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032138,-2.137163,52.41627,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032139,-2.14559,52.42141,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032139,-2.151149,52.42159,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032139,-2.1443,52.42254,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032139,-2.1443,52.42254,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032139,-2.1443,52.42254,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032139,-2.142659,52.41988,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032139,-2.142583,52.41905,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.145817,52.42333,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.139394,52.4198,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.151149,52.42159,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.151149,52.42159,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.151149,52.42159,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032139,-2.151149,52.42159,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032140,-2.150912,52.41666,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032140,-2.150037,52.41884,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032141,-2.084028,52.4321,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032141,-2.106962,52.43389,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032141,-2.10837,52.43228,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032141,-2.104514,52.43724,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032141,-2.12489,52.42786,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032141,-2.128988,52.42621,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032141,-2.128988,52.42621,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032141,-2.128988,52.42621,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032136,-2.091472,52.42587,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032136,-2.113067,52.40571,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032136,-2.113067,52.40571,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032136,-2.074937,52.39703,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032136,-2.069267,52.39846,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032136,-2.091472,52.42587,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032136,-2.10071,52.39514,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032136,-2.074937,52.39703,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032137,-2.118269,52.3996,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032137,-2.117994,52.39026,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032137,-2.119072,52.39224,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032137,-2.117994,52.39026,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032137,-2.117557,52.39164,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032137,-2.117994,52.39026,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032137,-2.122948,52.39097,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032137,-2.129949,52.39306,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032137,-2.114839,52.39182,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032137,-2.114839,52.39182,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032137,-2.120038,52.39067,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032137,-2.117994,52.39026,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032137,-2.117994,52.39026,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032168,-2.061397,52.4145,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032168,-2.059931,52.41813,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032169,-2.021743,52.41105,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032169,-2.053106,52.42772,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032169,-2.018722,52.42924,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032169,-2.058522,52.39794,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032169,-2.018722,52.42924,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032169,-2.058522,52.39794,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032169,-2.018722,52.42924,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032169,-2.018722,52.42924,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032169,-2.058522,52.39794,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032169,-2.078313,52.41954,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032169,-2.053137,52.42873,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032169,-2.008117,52.42277,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032169,-2.053106,52.42772,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032176,-2.074134,52.3566,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032176,-2.091734,52.36809,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032176,-2.074826,52.34889,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032176,-2.077875,52.3629,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032176,-2.083024,52.3757,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032126,-2.025318,52.39062,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032126,-2.025318,52.39062,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032126,-2.025318,52.39062,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032126,-2.021086,52.39059,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032126,-2.022467,52.38954,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032126,-2.022467,52.38954,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032126,-2.022467,52.38954,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032126,-2.014781,52.38807,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032126,-2.021086,52.39059,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032126,-2.036964,52.38233,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032170,-2.025378,52.39322,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032171,-2.031214,52.39557,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032171,-2.031214,52.39557,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032171,-2.023971,52.39939,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032171,-2.024029,52.39723,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032171,-2.024029,52.39723,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.019031,52.39457,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.017105,52.39338,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.017105,52.39407,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.018075,52.39337,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.019031,52.39457,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.017105,52.39407,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032172,-2.024233,52.39402,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032172,-2.017105,52.39338,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032172,-2.014901,52.39318,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032172,-2.014901,52.39318,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032172,-2.017105,52.39338,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032172,-2.014901,52.39318,2022 Q1
+2022-01-01,Theft from the person,Investigation complete; no suspect identified,E01032172,-2.017105,52.39338,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032172,-2.020205,52.39218,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032133,-1.882933,52.384,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032133,-1.880222,52.38671,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01032133,-1.882445,52.39054,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Robbery,Investigation complete; no suspect identified,E01032133,-1.880222,52.38671,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032133,-1.879902,52.38557,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032133,-1.882445,52.39054,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032133,-1.883591,52.39072,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01032133,-1.881445,52.38564,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032135,-1.872264,52.38989,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032135,-1.87083,52.38774,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032135,-1.872039,52.38655,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032135,-1.873014,52.38957,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032135,-1.879026,52.38899,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032135,-1.872264,52.38989,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032145,-1.878183,52.39623,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032145,-1.871803,52.39178,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032147,-1.874673,52.39029,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032147,-1.8816,52.39342,2022 Q1
+2022-01-01,Violence and sexual offences,Offender given a caution,E01032147,-1.876537,52.39103,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032147,-1.874673,52.39029,2022 Q1
+2022-01-01,Violence and sexual offences,Offender given a caution,E01032147,-1.876537,52.39103,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032147,-1.876537,52.39103,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032147,-1.874673,52.39029,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032147,-1.874673,52.39029,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01032147,-1.876537,52.39103,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032134,-1.887499,52.37947,2022 Q1
+2022-01-01,Robbery,Unable to prosecute suspect,E01032134,-1.915332,52.3902,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032134,-1.883943,52.38538,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032134,-1.883943,52.38538,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032134,-1.883943,52.38538,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032134,-1.922692,52.39127,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032134,-1.926597,52.38445,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032146,-1.870038,52.39231,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032146,-1.85233,52.3969,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032146,-1.868713,52.39307,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032146,-1.868389,52.38844,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032146,-1.868064,52.39413,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032146,-1.868389,52.38844,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032177,-1.869739,52.37893,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032177,-1.874434,52.37588,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032177,-1.869739,52.37893,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032177,-1.874434,52.37588,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032177,-1.874434,52.37588,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032177,-1.879895,52.37719,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032178,-1.892263,52.37165,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032178,-1.887896,52.36763,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032178,-1.896022,52.37192,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032178,-1.896022,52.37192,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032178,-1.896022,52.37192,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032178,-1.896022,52.37192,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032178,-1.895419,52.37252,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032178,-1.895419,52.37252,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032178,-1.894537,52.37257,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032178,-1.91165,52.36481,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032178,-1.892263,52.37165,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032142,-2.000808,52.38171,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032142,-2.001748,52.38138,2022 Q1
+2022-01-01,Robbery,Unable to prosecute suspect,E01032142,-1.99643,52.37919,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032142,-1.996533,52.38075,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032142,-1.990891,52.38042,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01032142,-1.988805,52.38153,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032143,-2.003481,52.3763,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032143,-2.013014,52.37283,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032143,-2.012264,52.37023,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032143,-2.021214,52.38083,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032143,-2.012264,52.37023,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032143,-2.021214,52.38083,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032144,-1.992056,52.35904,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032144,-1.992056,52.35904,2022 Q1
+2022-01-01,Bicycle theft,Investigation complete; no suspect identified,E01032144,-1.990484,52.36087,2022 Q1
+2022-01-01,Shoplifting,Status update unavailable,E01032144,-1.990734,52.3608,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032144,-1.990734,52.3608,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032144,-1.990484,52.36087,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032127,-2.06127,52.36605,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032127,-2.06127,52.36605,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032127,-2.06127,52.36605,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Theft from the person,Unable to prosecute suspect,E01032127,-2.063406,52.35995,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032127,-2.057137,52.3608,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032127,-2.06511,52.36048,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032127,-2.060702,52.36923,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032127,-2.06611,52.36159,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032127,-2.061107,52.36476,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032127,-2.06611,52.36159,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032127,-2.062002,52.36428,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032127,-2.06611,52.36159,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01032127,-2.055846,52.36179,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.055072,52.36556,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.051121,52.3645,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.052721,52.36442,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.053663,52.36585,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.055086,52.36468,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.055072,52.36556,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.057933,52.36353,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032128,-2.059182,52.36392,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032128,-2.055072,52.36556,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032128,-2.055072,52.36556,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032128,-2.057656,52.36509,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032128,-2.055072,52.36556,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032129,-2.050565,52.36693,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032129,-2.050565,52.36693,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032129,-2.052681,52.36769,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01032129,-2.053312,52.36683,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032129,-2.05562,52.36868,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.049039,52.36795,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.053312,52.36683,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032129,-2.053312,52.36683,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.053312,52.36683,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.05562,52.36868,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.048141,52.36578,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.057616,52.36756,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.048141,52.36578,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.057616,52.36756,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.050565,52.36693,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.057616,52.36756,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032129,-2.050565,52.36693,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032129,-2.051888,52.36807,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032129,-2.049039,52.36795,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032152,-2.051236,52.3626,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032152,-2.054848,52.36271,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032152,-2.046804,52.36526,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032152,-2.053203,52.36197,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032152,-2.051236,52.3626,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01032152,-2.054848,52.36271,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032152,-2.054848,52.36271,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032152,-2.051236,52.3626,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032152,-2.04783,52.36351,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032150,-2.034056,52.36533,2022 Q1
+2022-01-01,Criminal damage and arson,Court result unavailable,E01032150,-2.039464,52.36843,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032151,-2.038918,52.36575,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032151,-2.038918,52.36575,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032151,-2.044492,52.3592,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032151,-2.043554,52.36095,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032151,-2.043099,52.36173,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032151,-2.043099,52.36173,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032151,-2.043099,52.36173,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01032151,-2.043099,52.36173,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032153,-2.049514,52.34659,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032153,-2.054298,52.34479,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032153,-2.055043,52.34216,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032153,-2.049514,52.34659,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032153,-2.062791,52.35111,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032153,-2.049514,52.34659,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032153,-2.055043,52.34216,2022 Q1
+2022-01-01,Other crime,Court result unavailable,E01032153,-2.049514,52.34659,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032155,-2.04827,52.34998,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032155,-2.046573,52.35514,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032155,-2.046542,52.3535,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032155,-2.043046,52.35258,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032155,-2.039655,52.35241,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032155,-2.043736,52.35256,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032155,-2.043736,52.35256,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.96407,52.35704,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.959361,52.35198,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.959977,52.35338,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.95142,52.39077,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.958234,52.34867,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.957904,52.37186,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032122,-1.965876,52.35716,2022 Q1
+2022-01-01,Criminal damage and arson,Offender given a caution,E01032122,-1.959361,52.35198,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032122,-1.957271,52.35794,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032122,-1.919081,52.36499,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032122,-1.955378,52.37156,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Theft from the person,Unable to prosecute suspect,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Theft from the person,Investigation complete; no suspect identified,E01032122,-1.959361,52.35198,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032122,-1.919081,52.36499,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032122,-1.919081,52.36499,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032122,-1.940199,52.37601,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032122,-1.95463,52.36973,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032122,-1.945811,52.36372,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032123,-1.890778,52.36015,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032123,-1.869113,52.33235,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032123,-1.912205,52.32943,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032123,-1.869113,52.33235,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032123,-1.941163,52.32421,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032123,-1.948645,52.33806,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032123,-1.877866,52.34601,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032123,-1.919877,52.33886,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032123,-1.897022,52.35248,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032123,-1.906815,52.33144,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032123,-1.872394,52.31903,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032123,-1.906815,52.33144,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032123,-1.906815,52.33144,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01032124,-1.969989,52.35483,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032124,-1.967159,52.34941,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032124,-1.969989,52.35483,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01032124,-1.967111,52.35432,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032125,-1.968419,52.35259,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032125,-1.955147,52.33776,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032125,-1.968846,52.35055,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032154,-2.060133,52.3501,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032154,-2.057276,52.34371,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032154,-2.055978,52.35039,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032154,-2.056989,52.34889,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032154,-2.056209,52.3473,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032154,-2.056989,52.34889,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032154,-2.05706,52.34669,2022 Q1
+2022-01-01,Other crime,Status update unavailable,E01032154,-2.05906,52.34936,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032159,-2.070222,52.34336,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032159,-2.070222,52.34336,2022 Q1
+2022-01-01,Drugs,Unable to prosecute suspect,E01032159,-2.064345,52.33914,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032159,-2.065946,52.33982,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032159,-2.065946,52.33982,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032159,-2.065946,52.33982,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032159,-2.065946,52.33982,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032159,-2.064345,52.33914,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032159,-2.069544,52.34141,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032159,-2.070222,52.34336,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032159,-2.064345,52.33914,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032159,-2.070222,52.34336,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032159,-2.070222,52.34336,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032160,-2.055336,52.34154,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032160,-2.054029,52.34115,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032160,-2.054029,52.34115,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032160,-2.054029,52.34115,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032160,-2.058965,52.34429,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032160,-2.065187,52.34268,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032160,-2.057431,52.33826,2022 Q1
+2022-01-01,Possession of weapons,Unable to prosecute suspect,E01032160,-2.064333,52.34108,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032160,-2.060626,52.34561,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032160,-2.057186,52.34183,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032160,-2.05911,52.34298,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032160,-2.056376,52.33965,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032160,-2.060626,52.34561,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032160,-2.065187,52.34268,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032160,-2.06131,52.3414,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032160,-2.056376,52.33965,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032160,-2.056376,52.33965,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032160,-2.060709,52.34217,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032160,-2.060626,52.34561,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032161,-2.063317,52.34901,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032161,-2.069288,52.34693,2022 Q1
+2022-01-01,Burglary,Status update unavailable,E01032161,-2.064414,52.34607,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032161,-2.067509,52.34512,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.063622,52.34711,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.069288,52.34693,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.067509,52.34512,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.069288,52.34693,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.061782,52.34305,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032161,-2.068652,52.35283,2022 Q1
+2022-01-01,Other crime,Further investigation is not in the public interest,E01032161,-2.069288,52.34693,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.061082,52.33566,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.060613,52.33619,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.061886,52.334,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.06262,52.33354,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.06262,52.33354,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.062254,52.33474,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.06262,52.33354,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.062243,52.33685,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.063235,52.33279,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.064144,52.33218,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Criminal damage and arson,Local resolution,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01032156,-2.063235,52.33279,2022 Q1
+2022-01-01,Drugs,Unable to prosecute suspect,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032156,-2.061082,52.33566,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Possession of weapons,Unable to prosecute suspect,E01032156,-2.061886,52.334,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032156,-2.063235,52.33279,2022 Q1
+2022-01-01,Public order,Court result unavailable,E01032156,-2.061886,52.334,2022 Q1
+2022-01-01,Public order,Status update unavailable,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Theft from the person,Unable to prosecute suspect,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063235,52.33279,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.064144,52.33218,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063072,52.3316,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.06262,52.33354,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.062104,52.33206,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.061885,52.33281,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032156,-2.061886,52.334,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032156,-2.061886,52.334,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032156,-2.067148,52.32949,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01032156,-2.06262,52.33354,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063205,52.33259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.063235,52.33279,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032156,-2.063072,52.3316,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032156,-2.068744,52.33634,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032156,-2.070285,52.32725,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032156,-2.062285,52.33603,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.053906,52.3364,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.058295,52.33684,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.057459,52.33753,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.057459,52.33753,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.058295,52.33684,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.059789,52.33473,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032157,-2.061064,52.33362,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032157,-2.057459,52.33753,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032157,-2.058075,52.33734,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032157,-2.059305,52.33521,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032157,-2.060275,52.33623,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032157,-2.054437,52.33855,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032157,-2.047847,52.33904,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032157,-2.057459,52.33753,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032157,-2.054334,52.33881,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032157,-2.054334,52.33881,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01032157,-2.05872,52.33669,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01032157,-2.054437,52.33855,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032157,-2.054334,52.33881,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01032157,-2.054437,52.33855,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032157,-2.054437,52.33855,2022 Q1
+2022-01-01,Theft from the person,Investigation complete; no suspect identified,E01032157,-2.056577,52.33635,2022 Q1
+2022-01-01,Theft from the person,Investigation complete; no suspect identified,E01032157,-2.059305,52.33521,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.048842,52.33611,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.050389,52.34162,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.054268,52.33258,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.04936,52.33962,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.050389,52.34162,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.052896,52.33915,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.054437,52.33855,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032157,-2.061064,52.33362,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032157,-2.05872,52.33669,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01032157,-2.054976,52.33568,2022 Q1
+2022-01-01,Other crime,Further investigation is not in the public interest,E01032157,-2.053906,52.3364,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032173,-2.073458,52.32957,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032173,-2.071622,52.32818,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032173,-2.073458,52.32957,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032173,-2.072664,52.32873,2022 Q1
+2022-01-01,Drugs,Unable to prosecute suspect,E01032173,-2.072664,52.32873,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032173,-2.07358,52.33203,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032173,-2.071622,52.32818,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032173,-2.071622,52.32818,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032175,-2.073256,52.34046,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032175,-2.073256,52.34046,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032158,-2.053428,52.32986,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032158,-2.065161,52.32506,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032158,-2.067907,52.32703,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032158,-2.049355,52.33527,2022 Q1
+2022-01-01,Public order,Status update unavailable,E01032158,-2.053428,52.32986,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032158,-2.053428,52.32986,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032158,-2.053594,52.33365,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032158,-2.057358,52.32771,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032158,-2.05776,52.33174,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032158,-2.059016,52.3278,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032158,-2.053594,52.33365,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032158,-2.053594,52.33365,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032162,-2.047187,52.32589,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032162,-2.044648,52.32481,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032162,-2.047187,52.32589,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032162,-2.044648,52.32481,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032162,-2.050224,52.32547,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032162,-2.05307,52.32489,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032162,-2.054173,52.32696,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032162,-2.054173,52.32696,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032162,-2.046485,52.32802,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033059,-2.046843,52.33351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033059,-2.046843,52.33351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033061,-2.048526,52.32869,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01033061,-2.048526,52.32869,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033061,-2.048526,52.32869,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033061,-2.048526,52.32869,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.047228,52.32262,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.047228,52.32262,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.048285,52.32317,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.05022,52.32198,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.053825,52.31841,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032130,-2.059607,52.31983,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032130,-2.062822,52.32149,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032130,-2.060631,52.31751,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032130,-2.057798,52.31619,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032130,-2.055165,52.32241,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032130,-2.059607,52.31983,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032130,-2.048285,52.32317,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032130,-2.060631,52.31751,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032130,-2.053772,52.32267,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048285,52.32317,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048169,52.32436,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.055692,52.32118,2022 Q1
+2022-01-01,Violence and sexual offences,Further action is not in the public interest,E01032130,-2.04965,52.32356,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.062822,52.32149,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032130,-2.062822,52.32149,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032130,-2.062822,52.32149,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032130,-2.048725,52.32265,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032131,-2.070047,52.3254,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032131,-2.075311,52.32344,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032131,-2.072447,52.32125,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032131,-2.072863,52.32496,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032131,-2.072863,52.32496,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Vehicle crime,Unable to prosecute suspect,E01032131,-2.072863,52.32496,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.070047,52.3254,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.070047,52.3254,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.072171,52.32331,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.074724,52.32335,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01032131,-2.072171,52.32331,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032131,-2.072447,52.32125,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.074415,52.32259,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032131,-2.072171,52.32331,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.062878,52.31897,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032132,-2.071935,52.32241,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032132,-2.066913,52.3197,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01032132,-2.067664,52.32161,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032132,-2.062878,52.31897,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01032132,-2.062878,52.31897,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01032132,-2.070057,52.32224,2022 Q1
+2022-01-01,Public order,Status update unavailable,E01032132,-2.069584,52.32003,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032132,-2.07083,52.31953,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01032132,-2.07083,52.31953,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01032132,-2.07083,52.31953,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032132,-2.066913,52.3197,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.066913,52.3197,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.066343,52.32128,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01032132,-2.066343,52.32128,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.066343,52.32128,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.067664,52.32161,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.070161,52.32349,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032132,-2.07083,52.31953,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01032132,-2.066913,52.3197,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032174,-2.072645,52.32617,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032174,-2.073616,52.32758,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032174,-2.075283,52.32439,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01032174,-2.076282,52.32476,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032174,-2.075283,52.32439,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01032174,-2.075347,52.32741,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.075283,52.32439,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.075283,52.32439,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.076282,52.32476,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.076282,52.32476,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.076282,52.32476,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032174,-2.076282,52.32476,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032166,-2.073354,52.30194,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032166,-2.085175,52.3029,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032166,-2.084697,52.29819,2022 Q1
+2022-01-01,Anti-social behaviour,,E01032166,-2.0867,52.30281,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01032166,-2.066701,52.31507,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01032166,-2.066082,52.3134,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032166,-2.066701,52.31507,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032166,-2.066701,52.31507,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01032166,-2.082773,52.30421,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033060,-2.034067,52.32233,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033060,-1.985628,52.34846,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01033060,-2.034027,52.32773,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01033060,-1.991607,52.32558,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033060,-2.034027,52.32773,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01033060,-1.991607,52.32558,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033060,-2.002114,52.35036,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033060,-1.991607,52.32558,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033060,-1.991607,52.32558,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033060,-2.026706,52.3295,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033062,-2.071518,52.3186,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01033062,-2.066822,52.31784,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01033062,-2.065019,52.31855,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01033062,-2.074498,52.31965,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01033062,-2.069021,52.31695,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033062,-2.069021,52.31695,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033062,-2.074624,52.3164,2022 Q1
+2022-01-01,Anti-social behaviour,,E01033243,-2.003345,52.32368,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033243,-2.048091,52.31986,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01033243,-2.04985,52.31928,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01018722,-2.453594,53.21492,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01018722,-2.453594,53.21492,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01022182,-1.835134,52.021,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01022234,-2.635874,51.8378,2022 Q1
+2022-01-01,Burglary,Status update unavailable,E01013998,-2.744931,52.32234,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01013998,-2.792254,52.27496,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01013998,-2.792254,52.27496,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014051,-2.875657,52.36605,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014051,-2.875906,52.36304,2022 Q1
+2022-01-01,Public order,Investigation complete; no suspect identified,E01014051,-2.875657,52.36605,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014051,-2.881016,52.33494,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014051,-2.875906,52.36304,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014051,-2.875906,52.36304,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014052,-2.838526,52.33714,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014052,-2.923061,52.26076,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014052,-2.77208,52.34033,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014052,-2.774602,52.32424,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014052,-2.950507,52.263,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01014052,-2.79018,52.34539,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014096,-2.65365,52.33079,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014096,-2.657956,52.26693,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014096,-2.69733,52.30613,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014096,-2.656652,52.30958,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014041,-2.74072,52.22913,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014041,-2.742567,52.23189,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014041,-2.744231,52.23247,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014041,-2.744038,52.22966,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014042,-2.73719,52.23434,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014042,-2.744951,52.23614,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01014042,-2.74013,52.23064,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.739389,52.2345,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.74013,52.23064,2022 Q1
+2022-01-01,Violence and sexual offences,Offender given a caution,E01014042,-2.736293,52.23147,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.739246,52.23296,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014042,-2.74013,52.23064,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01014043,-2.756235,52.22455,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01014043,-2.756235,52.22455,2022 Q1
+2022-01-01,Shoplifting,Court result unavailable,E01014043,-2.756235,52.22455,2022 Q1
+2022-01-01,Shoplifting,Court result unavailable,E01014043,-2.756235,52.22455,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014043,-2.761742,52.22469,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014044,-2.76413,52.22397,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014044,-2.766583,52.22186,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014044,-2.766583,52.22186,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014044,-2.766583,52.22186,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014045,-2.737386,52.21701,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014045,-2.73858,52.21841,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014045,-2.738155,52.21665,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014045,-2.734859,52.22267,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014046,-2.745686,52.22492,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014046,-2.746972,52.22479,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014046,-2.745513,52.22336,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014046,-2.758626,52.22309,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014046,-2.745513,52.22336,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014046,-2.747956,52.22411,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01014046,-2.745513,52.22336,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.740685,52.22351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.740379,52.22537,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.740685,52.22351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.744706,52.22585,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.744706,52.22585,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.742542,52.2269,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014047,-2.744706,52.22585,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014047,-2.744074,52.22394,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014047,-2.74195,52.22216,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014047,-2.740957,52.22578,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01014047,-2.742542,52.2269,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014047,-2.74195,52.22216,2022 Q1
+2022-01-01,Public order,Court result unavailable,E01014047,-2.74434,52.22237,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014047,-2.740685,52.22351,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014047,-2.74195,52.22216,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74246,52.22287,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74195,52.22216,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74246,52.22287,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74195,52.22216,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014047,-2.742542,52.2269,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.744706,52.22585,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74246,52.22287,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74434,52.22237,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.743142,52.22335,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74434,52.22237,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.740379,52.22537,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014047,-2.744074,52.22394,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.74246,52.22287,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014047,-2.744706,52.22585,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.737726,52.22695,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738457,52.22687,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738118,52.2241,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.739053,52.22839,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738432,52.22713,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.740053,52.22777,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738958,52.22534,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738432,52.22713,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.740053,52.22777,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.737726,52.22695,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014048,-2.740433,52.22683,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014048,-2.731512,52.2239,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014048,-2.740053,52.22777,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014048,-2.737426,52.22831,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Drugs,Status update unavailable,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Drugs,Status update unavailable,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Possession of weapons,Unable to prosecute suspect,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014048,-2.73046,52.22401,2022 Q1
+2022-01-01,Public order,Status update unavailable,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014048,-2.737726,52.22695,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01014048,-2.740433,52.22683,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01014048,-2.739538,52.22938,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01014048,-2.738432,52.22713,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014048,-2.741324,52.22762,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014048,-2.740053,52.22777,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014048,-2.7389,52.22977,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.731512,52.2239,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014048,-2.735519,52.22626,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Violence and sexual offences,Further action is not in the public interest,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.740477,52.22859,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01014048,-2.733287,52.22675,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.735519,52.22626,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.739053,52.22839,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014048,-2.737726,52.22695,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.738981,52.22669,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.737726,52.22695,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.739538,52.22938,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.73872,52.22334,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.731512,52.2239,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.73872,52.22334,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.740053,52.22777,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.740433,52.22683,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.740967,52.22641,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.73872,52.22334,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014048,-2.738118,52.2241,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01014048,-2.73872,52.22334,2022 Q1
+2022-01-01,Other crime,Court result unavailable,E01014048,-2.739053,52.22839,2022 Q1
+2022-01-01,Anti-social behaviour,,E01013999,-2.826085,52.23026,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01013999,-2.80932,52.24798,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01013999,-2.80932,52.24798,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01013999,-2.80932,52.24798,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014017,-2.81503,52.18546,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014017,-2.81503,52.18546,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014017,-2.81503,52.18546,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014017,-2.81503,52.18546,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014024,-2.651063,52.23754,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014024,-2.669767,52.21155,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014024,-2.651063,52.23754,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014024,-2.669767,52.21155,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014024,-2.66895,52.18734,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014025,-2.67364,52.17251,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014025,-2.719577,52.16662,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014025,-2.667204,52.15083,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014025,-2.667204,52.15083,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014055,-2.951622,52.22198,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014055,-2.891148,52.25195,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01014055,-2.891148,52.25195,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014097,-2.739333,52.27167,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014097,-2.739333,52.27167,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014097,-2.731165,52.23308,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01014097,-2.755321,52.26472,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014097,-2.771318,52.24675,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014097,-2.739333,52.27167,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01014097,-2.739333,52.27167,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014000,-2.482758,52.2036,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014000,-2.482758,52.2036,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014000,-2.492506,52.19327,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014000,-2.462955,52.26786,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014000,-2.462955,52.26786,2022 Q1
+2022-01-01,Drugs,Further action is not in the public interest,E01014000,-2.492506,52.19327,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014000,-2.482758,52.2036,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014000,-2.462955,52.26786,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014000,-2.462955,52.26786,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014001,-2.469236,52.22846,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01014001,-2.471494,52.22734,2022 Q1
+2022-01-01,Burglary,Unable to prosecute suspect,E01014001,-2.471494,52.22734,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014001,-2.471494,52.22734,2022 Q1
+2022-01-01,Public order,Offender given a caution,E01014001,-2.487468,52.18204,2022 Q1
+2022-01-01,Public order,Offender given a caution,E01014001,-2.487468,52.18204,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014001,-2.471494,52.22734,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014001,-2.415277,52.20886,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014001,-2.469236,52.22846,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014002,-2.506881,52.18631,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014002,-2.512147,52.18505,2022 Q1
+2022-01-01,Other crime,Further investigation is not in the public interest,E01014002,-2.514068,52.18427,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014003,-2.515995,52.18897,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01014003,-2.515461,52.19089,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014003,-2.515461,52.19089,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014003,-2.515995,52.18897,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01014003,-2.515995,52.18897,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014003,-2.518602,52.18927,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014003,-2.514939,52.18744,2022 Q1
+2022-01-01,Other theft,Unable to prosecute suspect,E01014004,-2.546967,52.14886,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014004,-2.546967,52.14886,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014004,-2.546967,52.14886,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014004,-2.598327,52.16763,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014004,-2.546967,52.14886,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.507046,52.18924,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.514572,52.18988,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.514572,52.18988,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.509581,52.18834,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014005,-2.507665,52.19094,2022 Q1
+2022-01-01,Criminal damage and arson,Local resolution,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Other theft,Court result unavailable,E01014005,-2.509047,52.19159,2022 Q1
+2022-01-01,Shoplifting,Court result unavailable,E01014005,-2.509047,52.19159,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014005,-2.508302,52.18909,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014005,-2.508005,52.18995,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014005,-2.51337,52.1909,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014005,-2.507091,52.19063,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014005,-2.510518,52.19102,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014015,-2.477973,52.13129,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014015,-2.467564,52.11661,2022 Q1
+2022-01-01,Other crime,Status update unavailable,E01014015,-2.443451,52.15029,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014008,-2.929865,52.09981,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014008,-2.929865,52.09981,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014008,-2.919913,52.13055,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014008,-3.013703,52.14077,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01014008,-2.913573,52.09983,2022 Q1
+2022-01-01,Violence and sexual offences,Investigation complete; no suspect identified,E01014008,-2.922507,52.08706,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014009,-2.976797,52.16038,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014009,-3.066164,52.12862,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014009,-2.977029,52.15966,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014009,-3.030604,52.11647,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014009,-3.030604,52.11647,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014009,-3.027582,52.14195,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014033,-3.02336,52.20124,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014033,-3.023506,52.1993,2022 Q1
+2022-01-01,Shoplifting,Investigation complete; no suspect identified,E01014033,-3.031123,52.2022,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014033,-3.029075,52.19654,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014033,-3.020274,52.20639,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014033,-3.026502,52.20233,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014034,-3.030039,52.20532,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014034,-3.030039,52.20532,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014034,-3.027741,52.20655,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014034,-3.027741,52.20655,2022 Q1
+2022-01-01,Criminal damage and arson,Court result unavailable,E01014034,-3.027213,52.20586,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014034,-3.031844,52.20365,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014034,-3.031844,52.20365,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014034,-3.027213,52.20586,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.031217,52.20564,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.02757,52.20421,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.029967,52.20349,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014034,-3.029967,52.20349,2022 Q1
+2022-01-01,Violence and sexual offences,Formal action is not in the public interest,E01014034,-3.027741,52.20655,2022 Q1
+2022-01-01,Violence and sexual offences,Offender given a caution,E01014034,-3.029967,52.20349,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.031217,52.20564,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.029106,52.20484,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.033394,52.2042,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.027213,52.20586,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.027213,52.20586,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014034,-3.029106,52.20484,2022 Q1
+2022-01-01,Other crime,Status update unavailable,E01014034,-3.028461,52.20353,2022 Q1
+2022-01-01,Other crime,Court result unavailable,E01014034,-3.027213,52.20586,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014056,-2.972467,52.19646,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014056,-2.977729,52.23556,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014056,-2.997208,52.2298,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014056,-2.971307,52.19561,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014006,-2.756189,52.08646,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014006,-2.754632,52.07721,2022 Q1
+2022-01-01,Possession of weapons,Unable to prosecute suspect,E01014006,-2.7566,52.11592,2022 Q1
+2022-01-01,Burglary,Investigation complete; no suspect identified,E01014012,-2.792025,52.07199,2022 Q1
+2022-01-01,Possession of weapons,Unable to prosecute suspect,E01014012,-2.779705,52.06324,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014012,-2.782102,52.06434,2022 Q1
+2022-01-01,Violence and sexual offences,Court result unavailable,E01014012,-2.769132,52.06767,2022 Q1
+2022-01-01,Violence and sexual offences,Local resolution,E01014012,-2.81675,52.07412,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014013,-2.801171,52.08577,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014013,-2.803179,52.08461,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014013,-2.808545,52.08275,2022 Q1
+2022-01-01,Shoplifting,Unable to prosecute suspect,E01014013,-2.807656,52.08361,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.808545,52.08275,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.793409,52.0875,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.800852,52.08667,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.803179,52.08461,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.808545,52.08275,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.808545,52.08275,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014013,-2.803179,52.08461,2022 Q1
+2022-01-01,Other crime,Further investigation is not in the public interest,E01014013,-2.801197,52.08881,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014016,-2.869499,52.15685,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014016,-2.871208,52.15529,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014016,-2.871208,52.15529,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014016,-2.85145,52.16701,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014016,-2.890557,52.1646,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014016,-2.871208,52.15529,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014016,-2.882957,52.16181,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014016,-2.870338,52.15792,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014016,-2.876242,52.15933,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014016,-2.873448,52.15921,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014100,-2.7846,52.13196,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014100,-2.746106,52.12945,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014100,-2.739789,52.12995,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014100,-2.740904,52.1223,2022 Q1
+2022-01-01,Violence and sexual offences,Offender given a caution,E01014100,-2.740904,52.1223,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014101,-2.808172,52.16862,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014101,-2.808172,52.16862,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014101,-2.848531,52.08351,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014101,-2.848531,52.08351,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014101,-2.848531,52.08351,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014022,-2.63661,52.06654,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014022,-2.660892,52.0651,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014022,-2.660892,52.0651,2022 Q1
+2022-01-01,Other crime,Unable to prosecute suspect,E01014022,-2.660892,52.0651,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014023,-2.580987,52.09134,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014023,-2.63579,52.08277,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014023,-2.63579,52.08277,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014081,-2.683162,52.10774,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014081,-2.683162,52.10774,2022 Q1
+2022-01-01,Public order,Unable to prosecute suspect,E01014081,-2.683162,52.10774,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014081,-2.697101,52.11115,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014081,-2.697101,52.11115,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014081,-2.672204,52.1228,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014081,-2.697101,52.11115,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014082,-2.722924,52.10876,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014082,-2.729119,52.10812,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014082,-2.691728,52.12626,2022 Q1
+2022-01-01,Bicycle theft,Investigation complete; no suspect identified,E01014082,-2.701427,52.12623,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014082,-2.691728,52.12626,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014082,-2.698765,52.12417,2022 Q1
+2022-01-01,Criminal damage and arson,Unable to prosecute suspect,E01014082,-2.729402,52.1049,2022 Q1
+2022-01-01,Public order,Local resolution,E01014082,-2.73011,52.10978,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014082,-2.729402,52.1049,2022 Q1
+2022-01-01,Criminal damage and arson,Investigation complete; no suspect identified,E01014027,-2.433365,52.09295,2022 Q1
+2022-01-01,Other theft,Investigation complete; no suspect identified,E01014027,-2.422379,52.06421,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014027,-2.461371,52.08549,2022 Q1
+2022-01-01,Violence and sexual offences,Further action is not in the public interest,E01014027,-2.461371,52.08549,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014027,-2.461371,52.08549,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01014027,-2.441663,52.08778,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01014027,-2.441663,52.08778,2022 Q1
+2022-01-01,Violence and sexual offences,Action to be taken by another organisation,E01014027,-2.441663,52.08778,2022 Q1
+2022-01-01,Drugs,Unable to prosecute suspect,E01014028,-2.338767,52.0913,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014028,-2.341092,52.09379,2022 Q1
+2022-01-01,Violence and sexual offences,Status update unavailable,E01014028,-2.409266,52.12806,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014029,-2.343036,52.06368,2022 Q1
+2022-01-01,Violence and sexual offences,Unable to prosecute suspect,E01014029,-2.361254,52.07799,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014030,-2.381184,52.12561,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014030,-2.389755,52.12188,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014030,-2.402051,52.11844,2022 Q1
+2022-01-01,Vehicle crime,Investigation complete; no suspect identified,E01014030,-2.402051,52.11844,2022 Q1
+2022-01-01,Anti-social behaviour,,E01014083,-2.744088,52.0644,2022 Q1
