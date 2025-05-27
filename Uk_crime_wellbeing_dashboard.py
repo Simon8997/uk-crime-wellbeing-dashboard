@@ -78,7 +78,7 @@ st.metric("Wellbeing_PC1 (Q2)", round(row_2["Wellbeing_PC1"], 2))
 # =============================
 st.subheader("Crime Type Distribution & Quarterly Trend")
 
-df_crime = pd.read_csv("cleaned_crime_data.csv")
+df_crime = pd.read_csv("cleaned_crime_data_small.csv")
 df_crime.columns = df_crime.columns.str.strip().str.lower()
 df_crime["month"] = pd.to_datetime(df_crime["month"])
 df_crime["quarter"] = df_crime["month"].dt.to_period("Q")
